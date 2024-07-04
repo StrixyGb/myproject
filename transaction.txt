@@ -1,0 +1,9 @@
+Wallet succesfully topuped by: 3.000000ETH
+Wallet succesfully topuped by: 5.000000ETH
+Insufficient funds of USDT
+Insufficient funds of USDT
+Wallet succesfully topuped by: 10000.000000USDT
+Wallet succesfully topuped by: 12.000000BTC
+Wallet succesfully topuped by: 100000.000000USDT
+Wallet succesfully topuped by: 123123123.000000USDT
+Successfully exchanged USDT to BTC: 1231231USDTON19.699696BTC
